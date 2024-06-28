@@ -12,5 +12,5 @@ Before my career in software engineering, I worked as a Data Analyst and Databas
 I'm a lifelong learner, driven by the principles of [Deep Work](https://todoist.com/inspiration/deep-work) and the [Growth Mindset](https://www.renaissance.com/edword/growth-mindset/). Inspired by Stanford psychologist Carol Dweck, I believe that "effort is what makes you smart or talented." This belief fuels my dedication to continuous improvement and tackling new challenges in the tech industry.
 
 ## ✏️ &nbsp;Blog Posts
-- [Web Accessibility for All: Building Inclusive Digital Experiences](https://shyblumer.substack.com/p/what-makes-a-world-class-api)
-- [What makes a world-class API?](https://nextlinklabs.com/resources/insights/inclusive-web-design)
+- [Web Accessibility for All: Building Inclusive Digital Experiences](https://nextlinklabs.com/resources/insights/inclusive-web-design)
+- [What makes a world-class API?](https://shyblumer.substack.com/p/what-makes-a-world-class-api)
