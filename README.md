@@ -17,3 +17,8 @@ I'm a lifelong learner, driven by the principles of [Deep Work](https://todoist.
 
 ## 🧰 &nbsp;My Toolbox
 [![My Skills](https://skillicons.dev/icons?i=react,vue,angular,js,nodejs,express,jquery,jest,ruby,rails,html,css,mysql,mongodb,github,gitlab,docker,py,anaconda&perline=10)](https://imshy.net)
+
+## 🔗 &nbsp;My Links
+- [Shy Blumer's Substack](https://substack.com/@imshy): Exploring Open Source's Role in the Modern Internet and Global Economy 🌎🌍🌏
+- [Resume](https://www.imshy.net/resume)
+- [LinkedIn](https://www.linkedin.com/in/shyblumer/)
