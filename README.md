@@ -30,5 +30,5 @@ I'm a lifelong learner, driven by the principles of [Deep Work](https://todoist.
 
 ## 🔗 &nbsp;My Links
 - [Shy Blumer's Substack](https://substack.com/@imshy): Exploring Open Source's Role in the Modern Internet and Global Economy 🌎🌍🌏
-- [Resume](https://www.imshy.net/resume)
+- [Résumé](https://www.imshy.net/resume)
 - [LinkedIn](https://www.linkedin.com/in/shyblumer/)
