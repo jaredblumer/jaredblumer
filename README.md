@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/shyblumer/shyblumer/blob/main/assets/shyblumer_github.gif" alt="Hi, I'm Shy. I'm a Full-Stack Software Engineer, Data Analyst, and Tech Events Organizer" width="450"/>
+  <img src="https://github.com/shyblumer/shyblumer/blob/main/assets/jaredblumer_github.gif" alt="Hi, I'm Shy. I'm a Full-Stack Software Engineer, Data Analyst, and Tech Events Organizer" width="450"/>
 </p>
 
-# 👋 &nbsp;Hi, I'm Shy
+# 👋 &nbsp;Hi, I'm Jared
 
-With over five years of experience as a full-stack software engineer and data analyst, I have developed a versatile skill set that enables me to create reliable, scalable, and user-friendly web applications using **React**, **Angular**, **Vue**, **TypeScript**, **JavaScript**, **Node.js**, and **Ruby on Rails**.
+With over five years of experience as a full-stack software engineer and data analyst, I have developed a versatile skill set that enables me to create reliable, scalable, and user-friendly web applications using **React**, **TypeScript**, **JavaScript**, **Node.js**, and **Ruby on Rails**.
 
 Most recently, I worked as a Software Engineer at NextLink Labs, where I built and maintained full-stack web applications for clients using **Test-Driven Development** and **Object-Oriented Development** principles. I also contributed to continuous integration and deployment pipelines utilizing **AWS**, **GitHub**, **GitLab**, **Jenkins**, and **Terraform**.
 
