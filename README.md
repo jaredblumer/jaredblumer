@@ -23,12 +23,11 @@ I'm a lifelong learner, driven by the principles of [Deep Work](https://todoist.
 
 ## ✏️ &nbsp;Blog Posts
 - [Web Accessibility for All: Building Inclusive Digital Experiences](https://nextlinklabs.com/resources/insights/inclusive-web-design)
-- [What makes a world-class API?](https://shyblumer.substack.com/p/what-makes-a-world-class-api)
+- [What makes a world-class API?](https://jaredblumer.substack.com/p/what-makes-a-world-class-api)
 
 ## 🧰 &nbsp;My Toolbox
 [![My Skills](https://skillicons.dev/icons?i=react,vue,angular,js,nodejs,express,jquery,jest,ruby,rails,html,css,mysql,mongodb,git,github,gitlab,docker,py,anaconda&perline=10)](https://imshy.net)
 
 ## 🔗 &nbsp;My Links
-- [Shy Blumer's Substack](https://substack.com/@imshy): Exploring Open Source's Role in the Modern Internet and Global Economy 🌎🌍🌏
-- [Résumé](https://www.imshy.net/resume)
 - [LinkedIn](https://www.linkedin.com/in/shyblumer/)
+- [Code & Coffee Pittsburgh and Queery Coding Club](https://www.meetup.com/code-and-coffee-pgh/)
