@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/shyblumer/shyblumer/blob/main/assets/jaredblumer_github.gif" alt="Hi, I'm Shy. I'm a Full-Stack Software Engineer, Data Analyst, and Tech Events Organizer" width="450"/>
+  <img src="https://github.com/jaredblumer/jaredblumer/blob/main/assets/jaredblumer_github.gif" alt="Hi, I'm Jared Blumer. I'm a Full-Stack Software Engineer, Data Analyst, and Tech Events Organizer" width="450"/>
 </p>
 
 # 👋 &nbsp;Hi, I'm Jared
@@ -26,8 +26,8 @@ I'm a lifelong learner, driven by the principles of [Deep Work](https://todoist.
 - [What makes a world-class API?](https://jaredblumer.substack.com/p/what-makes-a-world-class-api)
 
 ## 🧰 &nbsp;My Toolbox
-[![My Skills](https://skillicons.dev/icons?i=react,vue,angular,js,nodejs,express,jquery,jest,ruby,rails,html,css,mysql,mongodb,git,github,gitlab,docker,py,anaconda&perline=10)](https://imshy.net)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,angular,js,nodejs,express,jquery,jest,ruby,rails,html,css,mysql,mongodb,git,github,gitlab,docker,py,anaconda&perline=10)](https://www.linkedin.com/in/jaredblumer/)
 
 ## 🔗 &nbsp;My Links
-- [LinkedIn](https://www.linkedin.com/in/shyblumer/)
+- [LinkedIn](https://www.linkedin.com/in/jaredblumer/)
 - [Code & Coffee Pittsburgh and Queery Coding Club](https://www.meetup.com/code-and-coffee-pgh/)
