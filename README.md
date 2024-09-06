@@ -30,4 +30,4 @@ I'm a lifelong learner, driven by the principles of [Deep Work](https://todoist.
 
 ## 🔗 &nbsp;My Links
 - [LinkedIn](https://www.linkedin.com/in/jaredblumer/)
-- [Code & Coffee Pittsburgh and Queery Coding Club](https://www.meetup.com/code-and-coffee-pgh/)
+- [Code & Coffee Pittsburgh](https://www.meetup.com/code-and-coffee-pgh/)
