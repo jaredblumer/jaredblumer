@@ -12,8 +12,6 @@ In my role as the Director of Data Analytics at the Eye & Ear Foundation of Pitt
 
 Beyond my professional career, I am deeply committed to community engagement and skill-sharing. As the founder of **Code & Coffee Pittsburgh**, I organize monthly events that provide a collaborative space for individuals at all levels of coding to practice their skills, network, and receive support. This initiative aims to foster an inclusive and supportive tech community.
 
-Additionally, I founded the **Queery Coding Club**, focusing on creating a safe, supportive environment for the LGBTQIA+ community in the technology space. This club is a testament to my belief in the power of diversity in driving innovation and creating equitable opportunities in the tech industry. Our events are tailored to the unique interests and needs of our attendees, offering a platform for learning, connecting, building, and collaborative growth.
-
 ## 💻 &nbsp;Open-Source
 
 Alongside my professional and community engagements, I am a **Volunteer Technical Contributor** at the **Wikimedia Foundation**. In this role, I work with the Quality and Testing Engineering Team to enhance testing coverage of the MediaWiki platform, notably used for Wikipedia and its related projects. My focus was on developing solutions that ensured robustness and reliability, underscoring my commitment to supporting open-source software and educational resources.
