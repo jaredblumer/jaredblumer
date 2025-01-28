@@ -10,7 +10,7 @@ Most recently, I worked as a Software Engineer at NextLink Labs, where I built a
 
 In my role as the Director of Data Analytics at the Eye & Ear Foundation of Pittsburgh, a University of Pittsburgh non-profit organization, I led significant initiatives that transformed our approach to fundraising and donor engagement. During my tenure with the organization, we raised a total of $**41.2 million** in donations with a team of only seven.
 
-Beyond my professional career, I am deeply committed to community engagement and skill-sharing. As the founder of **Code & Coffee Pittsburgh**, I organize monthly events that provide a collaborative space for individuals at all levels of coding to practice their skills, network, and receive support. This initiative aims to foster an inclusive and supportive tech community.
+Beyond my professional career, I am deeply committed to community engagement and skill-sharing. As the founder of **[Code & Coffee Pittsburgh](https://www.meetup.com/code-and-coffee-pgh/)**, I organize monthly events that provide a collaborative space for individuals at all levels of coding to practice their skills, network, and receive support. This initiative aims to foster an inclusive and supportive tech community.
 
 ## 💻 &nbsp;Open-Source
 
