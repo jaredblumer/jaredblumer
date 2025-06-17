@@ -27,5 +27,6 @@ I'm a lifelong learner, driven by the principles of [Deep Work](https://todoist.
 [![My Skills](https://skillicons.dev/icons?i=react,vue,angular,js,nodejs,express,jquery,jest,ruby,rails,html,css,mysql,mongodb,git,github,gitlab,docker,py,anaconda&perline=10)](https://www.linkedin.com/in/jaredblumer/)
 
 ## 🔗 &nbsp;My Links
+- [My Portfolio](https://jaredblumer.com/)
 - [LinkedIn](https://www.linkedin.com/in/jaredblumer/)
 - [Code & Coffee Pittsburgh](https://www.meetup.com/code-and-coffee-pgh/)
