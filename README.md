@@ -4,7 +4,7 @@ I’m a results-driven Software Engineer with 5+ years of experience building fu
 
 Beyond professional work, I’m passionate about community and collaboration. As the founder of **[Code & Coffee Pittsburgh](https://www.meetup.com/code-and-coffee-pgh/)**, I organize monthly meetups that bring together over 1,800 developers to learn, share skills, and support one another in an inclusive environment.
 
-Whether I’m improving internal tools, enhancing user experiences, or architecting dependable infrastructure for large-scale systems, I’m driven to design software that’s fast, maintainable, and a joy to use.
+Whether improving internal tools, enhancing user experiences, or architecting dependable infrastructure for large-scale systems, I work to design software that’s fast, maintainable, and a joy to use.
 
 ## 💻 &nbsp;Open-Source
 
