@@ -1,16 +1,8 @@
-<p align="center">
-  <img src="https://github.com/jaredblumer/jaredblumer/blob/main/assets/jaredblumer_github.gif" alt="Hi, I'm Jared Blumer. I'm a Full-Stack Software Engineer, Data Analyst, and Tech Events Organizer" width="450"/>
-</p>
-
 # 👋 &nbsp;Hi, I'm Jared
 
-With over five years of experience as a full-stack software engineer and data analyst, I have developed a versatile skill set that enables me to create reliable, scalable, and user-friendly web applications using **React**, **TypeScript**, **JavaScript**, **Node.js**, and **Ruby on Rails**.
+I’m a results-driven Software Engineer with 5+ years of experience building full stack web applications that serve millions of users. I focus on crafting high-performance, reliable systems and modernizing development workflows using **React**, **TypeScript**, **Node.js**, **Python**, **Ruby on Rails**, **AWS**, **Docker**, and **Terraform**.
 
-Most recently, I worked as a Software Engineer at NextLink Labs, where I built and maintained full-stack web applications for clients using **Test-Driven Development** and **Object-Oriented Development** principles. I also contributed to continuous integration and deployment pipelines utilizing **AWS**, **GitHub**, **GitLab**, **Jenkins**, and **Terraform**.
-
-In my role as the Director of Data Analytics at the Eye & Ear Foundation of Pittsburgh, a University of Pittsburgh non-profit organization, I led significant initiatives that transformed our approach to fundraising and donor engagement. During my tenure with the organization, we raised a total of $**41.2 million** in donations with a team of only seven.
-
-Beyond my professional career, I am deeply committed to community engagement and skill-sharing. As the founder of **[Code & Coffee Pittsburgh](https://www.meetup.com/code-and-coffee-pgh/)**, I organize monthly events that provide a collaborative space for individuals at all levels of coding to practice their skills, network, and receive support. This initiative aims to foster an inclusive and supportive tech community.
+Beyond professional work, I’m passionate about community and collaboration. As the founder of **[Code & Coffee Pittsburgh](https://www.meetup.com/code-and-coffee-pgh/)**, I organize monthly meetups that bring together over 1,800 developers to learn, share skills, and support one another in an inclusive environment.
 
 ## 💻 &nbsp;Open-Source
 
