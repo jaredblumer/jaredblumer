@@ -4,6 +4,8 @@ I’m a results-driven Software Engineer with 5+ years of experience building fu
 
 Beyond professional work, I’m passionate about community and collaboration. As the founder of **[Code & Coffee Pittsburgh](https://www.meetup.com/code-and-coffee-pgh/)**, I organize monthly meetups that bring together over 1,800 developers to learn, share skills, and support one another in an inclusive environment.
 
+Whether I’m improving internal tools, enhancing user experiences, or architecting dependable infrastructure for large-scale systems, I’m driven to design software that’s fast, maintainable, and a joy to use.
+
 ## 💻 &nbsp;Open-Source
 
 Alongside my professional and community engagements, I am a **Volunteer Technical Contributor** at the **Wikimedia Foundation**. In this role, I work with the Quality and Testing Engineering Team to enhance testing coverage of the MediaWiki platform, notably used for Wikipedia and its related projects. My focus was on developing solutions that ensured robustness and reliability, underscoring my commitment to supporting open-source software and educational resources.
