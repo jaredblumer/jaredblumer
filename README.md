@@ -6,6 +6,13 @@ Beyond professional work, I’m passionate about community and collaboration. As
 
 Whether improving internal tools, enhancing user experiences, or architecting dependable infrastructure for large-scale systems, I work to design software that’s fast, maintainable, and a joy to use.
 
+## 🔗 &nbsp;My Links
+- [My Portfolio](https://jaredblumer.com/)
+- [LinkedIn](https://www.linkedin.com/in/jaredblumer/)
+- [Code & Coffee Pittsburgh](https://www.meetup.com/code-and-coffee-pgh/)
+- [FrightByte - Top Rated Streaming Horror](https://frightbyte.net/)
+- [Happeni - Pleasant Events Tracking](https://happeni.com/)
+
 ## 💻 &nbsp;Open-Source
 
 Alongside my professional and community engagements, I am a **Volunteer Technical Contributor** at the **Wikimedia Foundation**. In this role, I work with the Quality and Testing Engineering Team to enhance testing coverage of the MediaWiki platform, notably used for Wikipedia and its related projects. My focus was on developing solutions that ensured robustness and reliability, underscoring my commitment to supporting open-source software and educational resources.
@@ -19,8 +26,3 @@ I'm a lifelong learner, driven by the principles of [Deep Work](https://todoist.
 
 ## 🧰 &nbsp;My Toolbox
 [![My Skills](https://skillicons.dev/icons?i=react,vue,angular,js,nodejs,express,jquery,jest,ruby,rails,html,css,mysql,mongodb,git,github,gitlab,docker,py,anaconda&perline=10)](https://www.linkedin.com/in/jaredblumer/)
-
-## 🔗 &nbsp;My Links
-- [My Portfolio](https://jaredblumer.com/)
-- [LinkedIn](https://www.linkedin.com/in/jaredblumer/)
-- [Code & Coffee Pittsburgh](https://www.meetup.com/code-and-coffee-pgh/)
