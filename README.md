@@ -11,7 +11,7 @@ Whether improving internal tools, enhancing user experiences, or architecting de
 - [LinkedIn](https://www.linkedin.com/in/jaredblumer/)
 - [Code & Coffee Pittsburgh](https://www.meetup.com/code-and-coffee-pgh/)
 - [FrightByte - Top Rated Streaming Horror](https://frightbyte.net/)
-- [Happeni - Pleasant Events Tracking](https://happeni.com/)
+- [Freemodoro - Free & Open Source Pomodoro Timer](https://jaredblumer.github.io/freemodoro/)
 
 ## 💻 &nbsp;Open-Source
 
